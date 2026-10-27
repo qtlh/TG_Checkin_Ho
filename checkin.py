@@ -17,7 +17,7 @@ from telethon.errors import (
 # ================= 配置区域 =================
 
 TARGETS = {
-    "@yzaws_bot":           "/checkin",    #大姨子
+#    "@yzaws_bot":           "/checkin",    #大姨子
 }
 
 # 新增：群组数字 ID 签到列表
